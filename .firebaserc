@@ -1,0 +1,6 @@
+{
+  "projects": { "default": "study-space04" },
+  "targets": {
+    "study-space04": { "hosting": { "default": ["study-space04"] } }
+  }
+}
