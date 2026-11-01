@@ -1,0 +1,16 @@
+{
+  "name": "Study Space",
+  "short_name": "Study Space",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "description": "Plan your semester, tasks, notes, and focus sessions in one place.",
+  "background_color": "#151a17",
+  "theme_color": "#4b7059",
+  "icons": [
+    { "src": "/icons/study-space-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/study-space-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/study-space-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
